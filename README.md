@@ -1,2 +1,2 @@
 # kanishk
-kanishk dasgupta's repository
+Kanishk Dasgupta's World of Coding
