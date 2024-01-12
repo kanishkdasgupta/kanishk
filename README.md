@@ -1,2 +1,2 @@
-# kanishk
-Kanishk Dasgupta's World of Coding
+# Kanishk Dasgupta
+Hello! I'm Kanishk Dasgupta, a dedicated 10th-grade student at Arya Vidya Mandir, Bandra West, with a keen interest in Python, Computer Science, Physics, and Mathematics. As a class topper, my academic journey is marked by a deep commitment to understanding complex concepts and a passion for applying them through programming. On my GitHub, you'll find various projects where I explore the practical applications of Python, delving into the intricacies of code with precision and enthusiasm. I believe in the power of technology to solve real-world problems and am constantly seeking new challenges that push the boundaries of my knowledge and skills. Join me in navigating the exciting and ever-evolving landscape of technology and innovation.
